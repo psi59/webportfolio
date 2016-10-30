@@ -1,0 +1,15 @@
+.float_left{
+	float: left;
+}
+
+.width_30per{
+	width: 30%;
+}
+
+.image_popup:HOVER{
+	cursor: pointer;
+}
+
+.background_wrapper{
+  background-color: rgba(0,0,0, .7);
+}
